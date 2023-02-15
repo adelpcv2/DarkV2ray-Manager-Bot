@@ -78,7 +78,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/sbatrow/DarkV2ray-Manager-Bot/
 
 ### Deploy Bot on Heroku🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[https://github.com/sbatrow/DarkV2ray-Manager-Bot)](https://github.com/adelpcv2/DarkV2ray-Manager-Bot?organization=adelpcv2&organization=adelpcv2)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[https://github.com/sbatrow/DarkV2ray-Manager-Bot)](https://github.com/adelpcv2/DarkV2ray-Manager-Bot)
 
 
 ## :heavy_exclamation_mark: Requerimientos
